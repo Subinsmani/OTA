@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <osprey>
-            <Filename>Filename.zip</Filename>
+            <Filename>RR-O-v6.0.0-20180404-osprey-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Downloads"
-                description="Download latest builds">https://sourceforge.net/projects/resurrectionremix-oreo/files/osprey/</RomUrl>
+                description="Download latest builds">https://sourceforge.net/projects/resurrectionremix-oreo/files/osprey/RR-O-v6.0.0-20180404-osprey-Official.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
