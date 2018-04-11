@@ -10,7 +10,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/oreo/CHANGELOG.mkdn</ChangelogUrl>
+                description="View Changelog">https://github.com/Subinsmani/OTA/blob/master/Changelog.txt</ChangelogUrl>
             <SlimGappsUrl
             	id="gapps"
             	title="Gapps"
