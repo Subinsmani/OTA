@@ -1,25 +1,57 @@
 Resurrection Remix OS v 6.0.0
-=======================
+====================
+     05-11-2018
+====================
+May Security Patch Merged
+Add Bar animation smoothing
+Add Edge gesture
+Add Markup
+Add screenshot edit on notification
+Fix auto fill on themes
+Improved auto brightness toggle in QS
+Bring Brigtness Control to footer
+Introduce Rotation Boost
+Introduce Keypress Boost
+Iustom boost for scroll/fling 
+Improvement inTiny expanding
+Materialize missed calls icons
+Make the loading "spinner" animation smoother in non-holo apps
+AddSmart Pixels tile
+Add Animations to quick settings tiles
+Option for recents lock icon switch
+Add SmartPixels
+Removed custom Toast color options (1/2)"
+
+====================
+    For Device
+====================
+GPS Fix Added Thanks to @althafvly 
+Removed Always On dispaly
+Fixed Unknown Network From Sim Status Thanks to @Chil360
+
+====================
+
+====================
      04-22-2018
-=======================
+====================
 1. Fixed Camcoder
 2. And Source Updated
-=======================
+====================
 
-=======================
+====================
      04-18-2018
-=======================
+====================
 1. Bootloop Fixed
 2. Vendor Mismatch fixed
 3. Readded Lineagae Action to the setting
 4. Quick settings panel : Set transparency
 5. Custom Toast color options
 6. Add Twitter and pitchblack links into about section
-=======================
+====================
 
-=======================
+====================
       04-11-2018
-=======================
+====================
 1. Disable Bluetooth On first boot
 2. Always On Display is now available(using cause battery drain)
 3. Disable night Light Feature for gud smooth performance.
@@ -27,4 +59,4 @@ Resurrection Remix OS v 6.0.0
 5. Added Ambient Display battery toggle.
 6. And many more optimization or fix from LOS or RR side.
 
-=======================
+====================
