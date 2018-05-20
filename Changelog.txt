@@ -1,5 +1,14 @@
 Resurrection Remix OS v 6.0.0
 ====================
+     20-05-2018
+====================
+white navbar for Dialer and Contacts
+light navigation bar for messeging app
+Whatsapp Bug Fixed (Thanks To @rahul9999 and ZJRDroid)
+Selinux is now enforced. So as per our testing TEZ app is working fine.
+====================
+
+====================
      05-11-2018
 ====================
 May Security Patch Merged
