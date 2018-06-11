@@ -1,3 +1,36 @@
+
+Resurrection Remix Oreo Ver 6.1.0 Changelog
+
+====================
+     06-11-2018
+====================
+1. June Security Patch Merged
+2. Introduce trust interface
+3. Jelly: Add support for multiple windows
+4. Update text size of overflow number view
+5. Update heads up, sync and volume panel drawables
+6. Don't append app name to file on lockscreen
+7. Enable dualTarget on CellularTile
+8. Make it possible to hide signal strength via Carrier Config
+9. Add navbar button layout inversion tuning
+10. Fix ScreenShot Editor APP FC
+11. Add setting to enable Do Not Disturb during calls
+12. Setting the correct value for Control ringtone volume after reboot.
+13. Fix of the fall of Settings when the screen is rotated, if we are in STATUS BAR - Network traffic.
+14. Black Theme: add missing styles
+
+====================
+     DEVICE
+====================
+1. GPS Fixed Fully, Thanks To @chil360
+2. Enable EXFAT
+3. Whatsapp Media Related issue fixed, Thanks to @chil360
+
+====================
+   Remaining BUG
+====================
+Nothing.
+====================
 Resurrection Remix OS v 6.0.0
 ====================
      20-05-2018
