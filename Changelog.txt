@@ -1,5 +1,21 @@
 
 Resurrection Remix Oreo Ver 6.1.0 Changelog
+====================
+     07-10-2018
+====================
+July Security Patch Merged
+Add ability to restrict app data/wifi usage
+fix the background color for the expanded desktop settings
+Fix RR configurations "Panels" titles
+CellularTile: Don't call showDetail() when device is locked
+Toggle USB tethering only when USB is connected
+per-app cellular data and wifi restrictions
+Add LineageStatusBarItem interfaces
+====================
+       BUG
+====================
+You tell:p
+====================
 
 ====================
      06-11-2018
